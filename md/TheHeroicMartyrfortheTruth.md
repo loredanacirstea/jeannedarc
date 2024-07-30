@@ -231,7 +231,7 @@ On June 11, the French occupied the suburbs of Jargeau. The next day, first thin
 
 She herself climbed the ladder; she was knocked down by a stone which hit her on the head. But she got up, shouting to her people:
 
-"Friends, up! up! Our sire has condemned the English; they are ours at this hour; have good courage!"
+"Friends, up! up! Our Sire has condemned the English; they are ours at this hour; have good courage!"
 
 The ramparts were scaled. The English, pursued as far as the town bridge, were caught and killed. Suffolk was taken prisoner.
 
