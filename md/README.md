@@ -42,3 +42,11 @@
 ### To Louis-Maurice Boutet de Monvel
 - for the images of Jeanne d'Arc (1895) children's book
 - for inspired text for the same
+### To Søren Bie
+- for [jeanne-darc.info](https://www.jeanne-darc.info/)
+
+## Primary Sources
+
+We use these texts as primary sources. For example when asking the AI about factual information about Jeanne d'Arc.
+
+- English: [Texts](PrimarySourcesEn.md)
