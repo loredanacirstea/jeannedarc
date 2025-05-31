@@ -1,132 +1,89 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/docs-e70": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-355": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs-7d1": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/intro-61d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/docs/md/-07d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-42-b-411"
+    "__comp": "17896441",
+    "content": "42b9e80c"
   },
   "/docs/md/de-529": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-de-748-ac5"
+    "__comp": "17896441",
+    "content": "748a4787"
   },
   "/docs/md/en-73d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-enaa-6-8ff"
+    "__comp": "17896441",
+    "content": "aa6e5fa4"
   },
   "/docs/md/es-b6a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-es-806-e65"
+    "__comp": "17896441",
+    "content": "8067dd28"
   },
   "/docs/md/fr-1d9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-fr-30-e-e28"
+    "__comp": "17896441",
+    "content": "30e8e55e"
   },
   "/docs/md/gr-c7d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-gr-952-1e6"
+    "__comp": "17896441",
+    "content": "9526d030"
   },
   "/docs/md/hu-431": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-hud-1-b-f0b"
+    "__comp": "17896441",
+    "content": "d1b1d694"
   },
   "/docs/md/it-5f9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-it-264-b4e"
+    "__comp": "17896441",
+    "content": "26426d20"
   },
   "/docs/md/pl-f0e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-pl-1-b-1-259"
+    "__comp": "17896441",
+    "content": "1b193fb6"
   },
   "/docs/md/PrimarySourcesEn-54e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-primary-sources-en-724-5cf"
+    "__comp": "17896441",
+    "content": "72478fd9"
   },
   "/docs/md/ro-85e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-rof-6-f-122"
+    "__comp": "17896441",
+    "content": "f6f4d175"
   },
   "/docs/md/ru-2cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-md-ruf-1-e-b6c"
+    "__comp": "17896441",
+    "content": "f1eca227"
   },
   "/docs/rock_opera-652": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-rock-opera-740-660"
+    "__comp": "17896441",
+    "content": "74016337"
   },
   "/docs/statue-eb2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-statue-6-d-9-2aa"
+    "__comp": "17896441",
+    "content": "6d9e7f07"
   },
   "/-e5f": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
