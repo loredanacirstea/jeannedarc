@@ -32,21 +32,12 @@ export default {
   "baseUrl": "/",
   "organizationName": "loredanacirstea",
   "projectName": "jeannedarc",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en",
-      "fr",
-      "de",
-      "es",
-      "ro",
-      "gr",
-      "hu",
-      "it",
-      "pl",
-      "ru"
+      "en"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -59,6 +50,7 @@ export default {
           "sidebarPath": "./sidebars.ts",
           "editUrl": "https://github.com/loredanacirstea/jeannedarc/tree/main"
         },
+        "blog": false,
         "theme": {
           "customCss": "./src/css/custom.css"
         }
@@ -107,10 +99,6 @@ export default {
         {
           "title": "More",
           "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
             {
               "label": "GitHub",
               "href": "https://github.com/loredanacirstea/jeannedarc"

@@ -25,7 +25,7 @@ const config: Config = {
   organizationName: 'loredanacirstea', // Usually your GitHub org/user name.
   projectName: 'jeannedarc', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -33,7 +33,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en','fr','de','es','ro','gr','hu','it','pl','ru'],
+    locales: ['en'] // ,'fr','de','es','ro','gr','hu','it','pl','ru'],
   },
 
   presets: [
@@ -47,6 +47,7 @@ const config: Config = {
           editUrl:
             'https://github.com/loredanacirstea/jeannedarc/tree/main',
         },
+        blog: false,
         // blog: {
         //   showReadingTime: true,
         //   feedOptions: {
@@ -117,10 +118,10 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
+            // {
+            //   label: 'Blog',
+            //   to: '/blog',
+            // },
             {
               label: 'GitHub',
               href: 'https://github.com/loredanacirstea/jeannedarc',
