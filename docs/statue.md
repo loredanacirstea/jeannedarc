@@ -1,6 +1,8 @@
 ---
 title: Jeanne d'Arc Romée Statues
 description: 3D Printed Statues and Art dedicated to Joan of Arc
+keywords: [Joan of Arc, 3D printing, statues, medieval art, Jeanne d'Arc]
+image: ../public/images/Statue1.jpeg
 ---
 
 # Jeanne d'Arc Romée Statues

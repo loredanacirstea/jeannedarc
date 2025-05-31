@@ -24,6 +24,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'loredanacirstea', // Usually your GitHub org/user name.
   projectName: 'jeannedarc', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -40,6 +41,11 @@ const config: Config = {
     [
       'classic',
       {
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+        },
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
@@ -69,15 +75,44 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
+  headTags: [
+    // Declare a <link> preconnect tag
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://example.com',
+      },
+    },
+    // Declare some json-ld structured data
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org/',
+        '@type': 'WebSite',
+        name: "Jeanne d'Arc Romée",
+        description: "Joan of Arc historical timelines and digital art",
+        url: "https://jeannedarc.provable.dev",
+        logo: 'https://jeannedarc.provable.dev/img/joanofarc.png',
+      }),
+    },
+  ],
   themeConfig: {
-    // Replace with your project's social card
+    metadata: [
+      {name: 'keywords', content: "jeanne d'arc, joan of ark, romee, hero, martir, history, rock opera, medieval, France, Rouen"},
+      {name: 'description', content: 'Explore the life of Joan of Arc through interactive timelines, rock opera, and digital art'},
+      {name: 'twitter:card', content: 'summary_large_image'},
+      {property: 'og:image', content: 'https://jeannedarc.provable.dev/img/joanofarc.png'},
+    ],
     image: 'img/jeanne2.png',
     navbar: {
       title: 'Jeanne d\'Arc',
       logo: {
         alt: 'Jeanne d\'Arc Logo',
-        src: 'img/jeanne2.png',
+        src: 'img/joanofarc.png',
       },
       items: [
         {
@@ -101,7 +136,7 @@ const config: Config = {
           title: 'Info',
           items: [
             {
-              label: 'Info',
+              label: 'Intro',
               to: '/docs/intro',
             },
           ],
@@ -109,10 +144,10 @@ const config: Config = {
         {
           title: 'Community',
           items: [
-            // {
-            //   label: 'X',
-            //   href: 'https://x.com/docusaurus',
-            // },
+            {
+              label: 'X',
+              href: 'https://x.com/joanofarcromee',
+            },
           ],
         },
         {
@@ -129,7 +164,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Christian Tzurcanu, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © 2024-${new Date().getFullYear()} Christian Tzurcanu, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

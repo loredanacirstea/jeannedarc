@@ -43,8 +43,7 @@ const FeatureList: FeatureItem[] = [
     image: "/assets/images/laurel-db9b8b7477045738fe002b203735f0ad.png",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Joan's story in multiple languages in text, image, and video.
       </>
     ),
   },
@@ -122,7 +121,7 @@ function Feature({title, link, external, Svg, image, description}: FeatureItem) 
         src={image}
         alt={title}
         className={styles.featureSvg}
-        style={{ width: '200px', height: '200px', objectFit: 'contain' }}
+        style={{ width: '300px', height: '300px', objectFit: 'contain' }}
       />}
     </div>
     <div className="text--center padding-horiz--md">

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeannedarc.provable.dev/sitemap.xml

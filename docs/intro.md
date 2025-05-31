@@ -2,6 +2,8 @@
 sidebar_position: 1
 title: Jeanne d'Arc Romée
 description: Joan of Arc - Timelines, Rock Opera, and Digital Art
+image: /img/supermaid1.png
+keywords: [Jeanne d'Arc, Joan of Arc, Romée, hero, France, martir, history, rock opera, digital art]
 ---
 
 # Jeanne d'Arc Romée
