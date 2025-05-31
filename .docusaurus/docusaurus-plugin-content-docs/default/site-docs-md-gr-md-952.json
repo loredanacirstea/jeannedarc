@@ -1,0 +1,24 @@
+{
+  "id": "md/gr",
+  "title": "gr",
+  "description": "back",
+  "source": "@site/docs/md/gr.md",
+  "sourceDirName": "md",
+  "slug": "/md/gr",
+  "permalink": "/docs/md/gr",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/loredanacirstea/jeannedarc/tree/main/docs/md/gr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fr",
+    "permalink": "/docs/md/fr"
+  },
+  "next": {
+    "title": "hu",
+    "permalink": "/docs/md/hu"
+  }
+}

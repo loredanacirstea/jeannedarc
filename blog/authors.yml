@@ -1,0 +1,19 @@
+loredana:
+  name: Loredana Cirstea
+  title: Volunteer
+  url: https://github.com/loredanacirstea
+  image_url: https://avatars.githubusercontent.com/u/4785356?v=4
+  page: true
+  socials:
+    x: lorecirstea
+    github: loredanacirstea
+
+christian:
+  name: Christian Tzurcanu
+  title: Volunteer
+  url: https://github.com/ctzurcanu
+  image_url: https://avatars.githubusercontent.com/u/1025530?v=4
+  page: true
+  socials:
+    x: ctzurcanu
+    github: ctzurcanu

@@ -1,0 +1,24 @@
+{
+  "id": "md/de",
+  "title": "de",
+  "description": "back",
+  "source": "@site/docs/md/de.md",
+  "sourceDirName": "md",
+  "slug": "/md/de",
+  "permalink": "/docs/md/de",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/loredanacirstea/jeannedarc/tree/main/docs/md/de.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jeanne d'Arc in Texts",
+    "permalink": "/docs/md/PrimarySourcesEn"
+  },
+  "next": {
+    "title": "en",
+    "permalink": "/docs/md/en"
+  }
+}
