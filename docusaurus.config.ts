@@ -99,6 +99,28 @@ const config: Config = {
         logo: 'https://jeannedarc.provable.dev/img/joanofarc.png',
       }),
     },
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org/',
+        '@type': 'Person',
+        name: 'Joan of Arc',
+        alternateName: ['Jeanne d\'Arc', 'Jeanne d\'Arc Romée', 'The Maid of Orléans'],
+        birthDate: '1412',
+        deathDate: '1431-05-30',
+        birthPlace: 'Domrémy, France',
+        deathPlace: 'Rouen, France',
+        nationality: 'French',
+        description: 'French peasant woman who became a military leader during the Hundred Years\' War',
+        sameAs: [
+          'https://en.wikipedia.org/wiki/Joan_of_Arc',
+          'https://www.britannica.com/biography/Saint-Joan-of-Arc'
+        ]
+      }),
+    },
   ],
   themeConfig: {
     metadata: [
