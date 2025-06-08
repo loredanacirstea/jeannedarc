@@ -40,7 +40,7 @@ const FeatureList: FeatureItem[] = [
     title: "Joan's story in multiple languages in text, image, and video",
     link: "/docs/md/en",
     external: false,
-    image: "/assets/images/laurel-db9b8b7477045738fe002b203735f0ad.png",
+    image: "/img/joanofarc.png",
     description: (
       <>
         Joan's story in multiple languages in text, image, and video.
