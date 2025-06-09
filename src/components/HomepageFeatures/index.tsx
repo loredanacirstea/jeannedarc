@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
     title: "Jeanne d'Arc comic book",
     link: "/book_en/JeanneBookEn.pdf",
     external: true,
-    image: "/book_en/cover1.png",
+    image: "/img/cover1.png",
     description: (
       <>
        Jeanne d'Arc comic book.
