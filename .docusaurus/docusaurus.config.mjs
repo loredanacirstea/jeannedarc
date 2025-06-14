@@ -107,7 +107,7 @@ export default {
         "content": "https://jeannedarc.provable.dev/img/joanofarc.png"
       }
     ],
-    "image": "img/jeanne2.png",
+    "image": "img/jeanne2small.png",
     "navbar": {
       "title": "Jeanne d'Arc",
       "logo": {

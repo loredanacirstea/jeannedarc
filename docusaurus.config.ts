@@ -129,7 +129,7 @@ const config: Config = {
       {name: 'twitter:card', content: 'summary_large_image'},
       {property: 'og:image', content: 'https://jeannedarc.provable.dev/img/joanofarc.png'},
     ],
-    image: 'img/jeanne2.png',
+    image: 'img/jeanne2small.png',
     navbar: {
       title: 'Jeanne d\'Arc',
       logo: {
