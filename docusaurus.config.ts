@@ -81,7 +81,7 @@ const config: Config = {
       tagName: 'link',
       attributes: {
         rel: 'preconnect',
-        href: 'https://example.com',
+        href: 'https://jeannedarc.provable.dev',
       },
     },
     // Declare some json-ld structured data
