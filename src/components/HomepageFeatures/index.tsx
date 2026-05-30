@@ -26,13 +26,13 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: "Jeanne d'Arc comic book",
-    link: "/book_en/JeanneBookEn.pdf",
+    title: "NEW Jeanne d'Arc comic book (EN, FR)",
+    link: "https://ctzurcanu.github.io/joan-comic",
     external: true,
-    image: "/img/cover1.png",
+    image: "https://ctzurcanu.github.io/joan-comic/scenes/jeanne-ref-p18-full.png",
     description: (
       <>
-       Jeanne d'Arc comic book.
+       NEW Jeanne d'Arc comic book (EN, FR).
       </>
     ),
   },
@@ -99,6 +99,28 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
        A Rock Opera. External project repository.
+      </>
+    ),
+  },
+  {
+    title: 'Music for Joan of Arc',
+    link: "https://www.youtube.com/playlist?list=PLrZFPVQM38Mc4racYSXqJxWNPAbpghuem",
+    external: true,
+    image: "https://i.ytimg.com/vi/5z9hFiW2x7g/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEIgWyhlMA8=&rs=AOn4CLDGB3hSsJSwekianjQ3Xks8batObA",
+    description: (
+      <>
+       Music for Joan of Arc.
+      </>
+    ),
+  },
+  {
+    title: "Jeanne d'Arc comic book (Old Rouen Museum)",
+    link: "/book_en/JeanneBookEn.pdf",
+    external: true,
+    image: "/img/cover1.png",
+    description: (
+      <>
+       Jeanne d'Arc comic book published by the Old Rouen Museum, translated in English by volunteers.
       </>
     ),
   },
